@@ -9,4 +9,14 @@ h1,h5{
 
 .logo{
     background-color:#f0f0f0;
+    display: flex;
 }
+
+.navigation li {
+    list-style-type:none; 
+}
+
+.navigation li a{
+    text-decoration: none;
+}
+
